@@ -35,17 +35,17 @@ Practical user scenarios were also used to identify and resolve issues, ensuring
 
 ## System Preview
 
-Business Performance Dashboard
+### Business Performance Dashboard
 
 ![image alt](https://github.com/Cyndi-24/Automated-Excel-Sales-Expenses-Inventory-Manager/blob/main/Tracker%20Images/KPI.png)
 
 ![image alt](https://github.com/Cyndi-24/Automated-Excel-Sales-Expenses-Inventory-Manager/blob/main/Tracker%20Images/dashboard.png)
 
-Inventory Management
+### Inventory Management
 
+![image alt](https://github.com/Cyndi-24/Automated-Excel-Sales-Expenses-Inventory-Manager/blob/main/Tracker%20Images/inventory.png)
 
-
-Sales Tracking
+### Sales Tracking
 
 
 ## Custom Solutions & Collaboration
