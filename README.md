@@ -12,7 +12,40 @@ Built in Microsoft Excel, the system connects inventory records, purchases, sale
 - Purchase Tracking: Record stock purchases and automatically update inventory quantities.
 - Sales Management: Track sales transactions with automated revenue and gross profit calculations.
 - Expense Tracking: Record and monitor operating expenses alongside sales and inventory activities.
-- Daily, Weekly & Monthly Reconciliation: Review sales, expenses, and business performance across different reporting  periods to support routine financial monitoring and record reconciliation.
-- Interactive Business Dashboard: Monitor revenue, profitability, expenses, sales trends, and inventory performance using customizable date ranges.
+- Daily, Weekly & Monthly Reconciliation: Review sales, expenses, and business performance using customizable date  ranges to support routine financial monitoring and record reconciliation.
+- Interactive Business Dashboard: Monitor monthly revenue, profitability, expenses, sales trends.
 - Low-Stock Alerts: Identify products that have reached their reorder thresholds.
 - Currency Customization: Set a preferred currency for financial reporting.
+
+## Skills Demonstrated
+
+- Business Requirements & Solution Design: Translating operational needs into a structured, practical tracking system.
+- Excel Automation & Spreadsheet Development: Building interconnected workflows that reduce manual calculations and improve record management.
+- Data Management & Reporting: Organizing transactional data to support accurate monitoring, reconciliation, and business performance analysis.
+- Dashboard Development: Designing interactive reports that turn business records into meaningful performance insights.
+
+## Development & Testing
+
+The system was developed with a focus on usability, accuracy, and reliable day-to-day business operations.
+
+Testing covered transaction entry, inventory updates, automated calculations, dashboard reporting, currency settings, and worksheet protection.
+
+Practical user scenarios were also used to identify and resolve issues, ensuring the system functions consistently across its interconnected components.
+
+
+## System Preview
+
+Business Performance Dashboard
+
+
+
+Inventory Management
+
+
+
+Sales Tracking
+
+
+## Custom Solutions & Collaboration
+
+This project demonstrates my ability to translate business requirements into functional, automated Excel solutions. Beyond this system, I can develop customized tracking and reporting tools tailored to different business processes, operational needs, and decision-making requirements.
