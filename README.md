@@ -39,6 +39,8 @@ Business Performance Dashboard
 
 ![image alt](https://github.com/Cyndi-24/Automated-Excel-Sales-Expenses-Inventory-Manager/blob/main/Tracker%20Images/KPI.png)
 
+![image alt](https://github.com/Cyndi-24/Automated-Excel-Sales-Expenses-Inventory-Manager/blob/main/Tracker%20Images/dashboard.png)
+
 Inventory Management
 
 
