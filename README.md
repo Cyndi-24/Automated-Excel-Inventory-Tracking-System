@@ -1,8 +1,8 @@
-# Automated-Excel-Sales-Expenses-Inventory-Manager
+# Automated-Excel-Inventory Tracking System
 
 ## Project Overview
 
-The Automated Excel Sales, Expenses and Inventory Manager is a business management tool designed to help small businesses organise daily transactions, monitor inventory, track expenses, and understand their financial performance in one place.
+This is an Automated Excel Sales Business Management System designed to help retail businesses organize daily transactions, monitor inventory, track expenses, and understand their financial performance in one place.
 
 Built in Microsoft Excel, the system connects inventory records, purchases, sales, and expenses through automated calculations and an interactive dashboard. It reduces repetitive manual work, improves visibility into stock movements and business performance, and helps business owners make informed operational and financial decisions.
 
